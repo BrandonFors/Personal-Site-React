@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
 import SkillsWidget from './SkillsWidget'
+  
 const sections = [
-    {
+  {
     title: 'Programming Languages',
         skillList: [
         
@@ -10,14 +11,14 @@ const sections = [
             { name: 'JavaScript', proficiency: 'proficient' },
             { name: 'HTML/CSS', proficiency: 'proficient' },
             { name: 'C', proficiency: 'intermediate' },
-            { name: 'SQL', proficiency: 'learning' }
+            { name: 'SQL', proficiency: 'intermediate' }
             ]
     },
     {
         title: 'Frameworks/Libraries',
         skillList: [
 
-            { name: 'React.js', proficiency: 'proficient' },
+            { name: 'React', proficiency: 'proficient' },
             { name: 'Node.js', proficiency: 'proficient' },
             { name: 'Express', proficiency: 'proficient' },
             { name: 'Tailwind', proficiency: 'intermediate' },
