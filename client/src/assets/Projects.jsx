@@ -3,7 +3,7 @@ import ProjectWidget from './ProjectWidget'
 
 function Projects(){
     const webProjects = [
-        {name:"KeeperApp",imgLink:"",tools:["React", "Node.js", "Express"]},
+        {name:"KeeperApp",imgLink:"",tools:["React", "Node.js", "Express","PostgreSQL"]},
         {name:"TriviaApp",imgLink:"",tools:["React", "Node.js", "Express"]},
         {name:"Personal Site",imgLink:"",tools:["React", "TailwindCSS"]}
     ]

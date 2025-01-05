@@ -32,7 +32,7 @@ const sections = [
             { name: 'Git', proficiency: 'proficient' },
             { name: 'Excel', proficiency: 'proficient' },
             { name: 'Canva', proficiency: 'intermediate' },
-            { name: 'PostgreSQL', proficiency: 'learning' },
+            { name: 'PostgreSQL', proficiency: 'intermediate' },
             { name: 'MongoDB', proficiency: 'learning' },
             ]
         },
