@@ -12,24 +12,23 @@ import Sidebar from './assets/Sidebar';
 function App() {
 
   return (
-    <body className='scroll-smooth'>
-      <div className="flex flex-col gap-16 content-center justify-center px-24">
-        <Sidebar></Sidebar>
-        <div className="flex lg:flex-row flex-col-reverse justify-center items-center h-screen">
-          <Intro></Intro>
-          <div className='flex flex-col justify-center items-center'>
-            <img className="w-auto h-auto max-w-full max-h-full" src="/Web Logo.png" alt="Web Logo"></img>
-          </div>
+    
+    <div className="flex flex-col gap-16 content-center justify-center px-24">
+      <Sidebar></Sidebar>
+      <div className="flex lg:flex-row flex-col-reverse justify-center items-center h-screen">
+        <Intro></Intro>
+        <div className='flex flex-col justify-center items-center'>
+          <img className="w-auto h-auto max-w-full max-h-full" src="/Web Logo.png" alt="Web Logo"></img>
         </div>
-        <div className="flex lg:flex-row flex-col justify-center gap-6">
-          <About></About>
-          <Skills></Skills>
-        </div>
-        <Experience></Experience>
-        <Projects></Projects>
-        <Footer></Footer>
       </div>
-    </body>
+      <div className="flex lg:flex-row flex-col justify-center gap-6">
+        <About></About>
+        <Skills></Skills>
+      </div>
+      <Experience></Experience>
+      <Projects></Projects>
+      <Footer></Footer>
+    </div>
   );
 }
 
