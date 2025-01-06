@@ -10,7 +10,7 @@ function Projects(){
     return(
         <div className='flex items-center flex-col gap-6'>
             <h2 className='text-4xl font-bold'>Web Projects</h2>
-            <div className='flex flex-row gap-6 center-items'>
+            <div className='flex flex-row flex-wrap gap-6 center-items'>
             {
                 webProjects.map((project, index)=>{
                     return(

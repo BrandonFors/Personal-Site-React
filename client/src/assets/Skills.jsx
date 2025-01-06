@@ -21,7 +21,7 @@ const sections = [
             { name: 'React', proficiency: 'proficient' },
             { name: 'Node.js', proficiency: 'proficient' },
             { name: 'Express', proficiency: 'proficient' },
-            { name: 'Tailwind', proficiency: 'intermediate' },
+            { name: 'TailwindCSS', proficiency: 'intermediate' },
             { name: 'Bootstrap', proficiency: 'intermediate' },
             ]
     },
