@@ -21,7 +21,7 @@ const sections = [
             { name: 'React', proficiency: 'proficient' },
             { name: 'Node.js', proficiency: 'proficient' },
             { name: 'Express', proficiency: 'proficient' },
-            { name: 'TailwindCSS', proficiency: 'intermediate' },
+            { name: 'Tailwind', proficiency: 'intermediate' },
             { name: 'Bootstrap', proficiency: 'intermediate' },
             ]
     },
@@ -33,7 +33,7 @@ const sections = [
             { name: 'Excel', proficiency: 'proficient' },
             { name: 'Canva', proficiency: 'intermediate' },
             { name: 'PostgreSQL', proficiency: 'intermediate' },
-            { name: 'MongoDB', proficiency: 'learning' },
+            { name: 'MongoDB', proficiency: 'intermediate' },
             ]
         },
   ];
