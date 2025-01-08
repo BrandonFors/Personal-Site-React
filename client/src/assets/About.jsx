@@ -10,9 +10,9 @@ function About(){
             <p className='text-xl'>
                 On my own time, I often can be found increasing my web development skills, looking into a new code topic, or doing work for a club I'm involved in.
                 At Notre Dame I am involved in 
-                <span className='text-blue hover:text-orange'><a href = "https://ndirishsat.com/"> IrishSAT </a></span>
+                <span className='text-blue hover:text-orange'><a href = "https://ndirishsat.com/" target="_blank"> IrishSAT </a></span>
                  and 
-                <span className='text-blue hover:text-orange'><a href = "https://sites.nd.edu/cs4good/"> CS4Good </a></span>.
+                <span className='text-blue hover:text-orange'><a href = "https://sites.nd.edu/cs4good/" target="_blank"> CS4Good </a></span>.
                 I am also in the school's Freshman Engineering Leadership Council.
             </p>
             <p className='text-xl'>

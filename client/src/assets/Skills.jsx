@@ -22,7 +22,7 @@ const sections = [
             { name: 'Node.js', proficiency: 'proficient' },
             { name: 'Express', proficiency: 'proficient' },
             { name: 'Tailwind', proficiency: 'intermediate' },
-            { name: 'Bootstrap', proficiency: 'intermediate' },
+            { name: 'Bootstrap', proficiency: 'learning' },
             ]
     },
     {
