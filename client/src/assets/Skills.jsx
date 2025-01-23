@@ -34,6 +34,7 @@ const sections = [
             { name: 'Canva', proficiency: 'intermediate' },
             { name: 'PostgreSQL', proficiency: 'intermediate' },
             { name: 'MongoDB', proficiency: 'intermediate' },
+            { name: 'Firebase', proficiency: 'learning' },
             ]
         },
   ];
